@@ -1,0 +1,35 @@
+
+May 26, 2015
+
+git init - 
+-m > message kung ano changes
+
+git add
+git status
+git add '*.txt'
+git log - history of the changes - 
+git remote - from internet (github gitbucket)
+git remote add origin https...
+(origin - name ng repo sa local)
+origin - nagbabago bago
+git push -u origin master
+
+--- mga nabawas
+++ - mga naedit
+
+git diff --staged
+staging- hindi pa nacocommit
+git reset > parang undo, para matagal sa staging part
+git checkout --filename
+git branch clean_up
+git branch branchname
+git checkout branchname > para lumipat
+git branch > para makita ung list
+git merge clean_up
+git branch -d clean_up
+git 
+
+
+
+
+mkdir  - new folder
