@@ -31,6 +31,9 @@ git
 
 --- new notes (hackup-training)
 git add -p
+git reset <hash of commit> 		> tinanggal lahat ng new commits
+git stash				> store
+git clone <repository link>
 
 
 mkdir  - new folder
