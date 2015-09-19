@@ -29,7 +29,8 @@ git merge clean_up
 git branch -d clean_up
 git 
 
-
+--- new notes (hackup-training)
+git add -p
 
 
 mkdir  - new folder

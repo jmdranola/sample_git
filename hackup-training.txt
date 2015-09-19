@@ -1,0 +1,68 @@
+Idea Generation
+- Neil Calabroso
+
+be prepared
+worthy adversary
+awesome idea
+coding
+lose in details
+not focus on the solution but problem
+
+I thought love is an abstract until I make an instance of it.
+
+----
+Hackathon advices and how to pitch
+-Sony Valdez
+@MrValdez
+
+pyschic fighter game jam
+
+
+General tips
+-health
+-more on the ideas rather than the programming skills
+- you can fake the interface 
+- finishing your program is not a goal, but a target
+- focus on your minimum viable product
+(car story) - sell the potential of the idea
+- should be made as simple as possible
+
+advantages
+- coding project in under 2 days
+-teamwork
+-will know your weakness
+
+make and pitch your ideas
+-turn off your brain
+-not focus on the implementation
+
+--
+bringing native apps to the web
+-russel gutierrez
+
+http://slides.com/russellgutierrez/
+--
+
+ionic framework
+
+github.com/geekiners
+
+--
+redis
+-joniel Ibasco
+
+runs on memory instread of hd
+-therefore it is faster
+
+pub/sub
+-a messaging paradigm where a sender doesn't send data to a specific receiver but to a changel where receveirs register to
+
+---
+git
+
+CJ Billiones
+github : @cjaybilliones
+
+git add -p		> makikita yung mga naedit
+
+
